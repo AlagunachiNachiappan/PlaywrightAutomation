@@ -6,3 +6,7 @@ node_modules/
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
+pom.spec.ts
+webpom.spec.ts
+pom.page.ts
+webpom.page.ts
