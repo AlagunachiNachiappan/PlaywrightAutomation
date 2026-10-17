@@ -9,11 +9,3 @@ node_modules/
 .env
 authentication.spec.ts
 api.spec.ts
-test.spec.ts
-tes-1.spec.ts
-pom.spec.ts
-pom.page.ts
-sample.spec.ts
-sample.page.ts
-webpom.spec.ts
-webpom.page.ts
