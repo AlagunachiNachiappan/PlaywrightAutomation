@@ -13,7 +13,7 @@ test('Practice', async ({ page }) => {
 
 
 
-   
+
     //     await page.getByTestId('learn-more-toggle-m1-checkbox-toggle').click()
     //     await page.locator('#lm-m1-checkbox-toggle-checkboxes-sub-tab-automation').click()
     //     //doubt
