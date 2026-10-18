@@ -15,3 +15,5 @@ pom.spec.ts
 sample.spec.ts
 
 webpom.spec.ts
+tests/webpom.spec.ts
+tests/webpom.spec.ts
